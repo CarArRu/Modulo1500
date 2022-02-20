@@ -24,19 +24,6 @@ bool Condicion;
 
 int main(void){
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    Programacion del Developer 1....................
-    ................................................
-=======
-    Programacion del Developer 2*/*/*/*/*/*/*/*/*/*/
-    */*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
->>>>>>> Developer2
-=======
-
-
->>>>>>> Developer3
-
     goto PunterosDobles;
     goto ReturnFuncion;
     goto ContinueBrake;
@@ -269,8 +256,18 @@ PunterosDobles:
     printf("\nValor: %d", Desplazamiento.Valor);
     
     
-    Programacion del Developer 3-+-+-+-+-+-+-+-+-+-+
-    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+///Enumeracion incorrecta    
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
 
 
 }   /// Main
