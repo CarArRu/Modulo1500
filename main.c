@@ -25,8 +25,7 @@ bool Condicion;
 int main(void){
 
 
-    Programacion del Developer 3-+-+-+-+-+-+-+-+-+-+
-    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
 
     goto PunterosDobles;
     goto ReturnFuncion;
@@ -260,18 +259,8 @@ PunterosDobles:
     printf("\nValor: %d", Desplazamiento.Valor);
     
     
-///Enumeracion incorrecta    
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
+    Programacion del Developer 3-+-+-+-+-+-+-+-+-+-+
+    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 
 
 }   /// Main
