@@ -38,6 +38,9 @@ int main(void){
 >>>>>>> Developer3
 
     goto PunterosDobles;
+
+   printf("\nProgramacion del Dev2.....................");
+
     goto ReturnFuncion;
     goto ContinueBrake;
 
