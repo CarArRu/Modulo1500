@@ -41,6 +41,12 @@ int main(void){
     goto ReturnFuncion;
     goto ContinueBrake;
 
+
+
+   printf("\nProgramacion del Dev1--------------------");
+
+
+
     printf("\nStatic");
     for(StaticVar.i=0;StaticVar.i<5;StaticVar.i++)
         StaticContador();
