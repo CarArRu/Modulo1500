@@ -24,14 +24,6 @@ bool Condicion;
 
 int main(void){
 
-<<<<<<< HEAD
-    Programacion del Developer 1....................
-    ................................................
-=======
-    Programacion del Developer 2*/*/*/*/*/*/*/*/*/*/
-    */*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
->>>>>>> Developer2
-
     goto PunterosDobles;
     goto ReturnFuncion;
     goto ContinueBrake;
