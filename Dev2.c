@@ -1,4 +1,4 @@
-Programa Master Master !!!
+Programa Master
 
 
 /// Librerías
@@ -24,31 +24,9 @@ bool Condicion;
 
 int main(void){
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    Programacion del Developer 1....................
-    ................................................
-=======
-    Programacion del Developer 2*/*/*/*/*/*/*/*/*/*/
-    */*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
->>>>>>> Developer2
-=======
-
-
->>>>>>> Developer3
-
     goto PunterosDobles;
-
-   printf("\nProgramacion del Dev2.....................");
-
     goto ReturnFuncion;
     goto ContinueBrake;
-
-
-
-   printf("\nProgramacion del Dev1--------------------");
-
-
 
     printf("\nStatic");
     for(StaticVar.i=0;StaticVar.i<5;StaticVar.i++)
@@ -278,8 +256,18 @@ PunterosDobles:
     printf("\nValor: %d", Desplazamiento.Valor);
     
     
-    Programacion del Developer 3-+-+-+-+-+-+-+-+-+-+
-    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+///Enumeracion incorrecta    
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
 
 
 }   /// Main
