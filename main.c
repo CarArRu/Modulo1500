@@ -24,6 +24,10 @@ bool Condicion;
 
 int main(void){
 
+
+    Programacion del Developer 3-+-+-+-+-+-+-+-+-+-+
+    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
     goto PunterosDobles;
     goto ReturnFuncion;
     goto ContinueBrake;
